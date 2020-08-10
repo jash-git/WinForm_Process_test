@@ -1,0 +1,7 @@
+D:\Visual project code\C# 使用Process來達到呼叫、監聽、關閉外部程式等功能\WinForm_Process_test\WinForm_Process_test\bin\Debug\WinForm_Process_test.exe
+D:\Visual project code\C# 使用Process來達到呼叫、監聽、關閉外部程式等功能\WinForm_Process_test\WinForm_Process_test\bin\Debug\WinForm_Process_test.pdb
+D:\Visual project code\C# 使用Process來達到呼叫、監聽、關閉外部程式等功能\WinForm_Process_test\WinForm_Process_test\obj\x86\Debug\WinForm_Process_test.Form1.resources
+D:\Visual project code\C# 使用Process來達到呼叫、監聽、關閉外部程式等功能\WinForm_Process_test\WinForm_Process_test\obj\x86\Debug\WinForm_Process_test.Properties.Resources.resources
+D:\Visual project code\C# 使用Process來達到呼叫、監聽、關閉外部程式等功能\WinForm_Process_test\WinForm_Process_test\obj\x86\Debug\WinForm_Process_test.csproj.GenerateResource.Cache
+D:\Visual project code\C# 使用Process來達到呼叫、監聽、關閉外部程式等功能\WinForm_Process_test\WinForm_Process_test\obj\x86\Debug\WinForm_Process_test.exe
+D:\Visual project code\C# 使用Process來達到呼叫、監聽、關閉外部程式等功能\WinForm_Process_test\WinForm_Process_test\obj\x86\Debug\WinForm_Process_test.pdb
